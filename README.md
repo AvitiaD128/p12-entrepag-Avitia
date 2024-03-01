@@ -29,8 +29,10 @@ https://blog.logrocket.com/flutter-tabbar-a-complete-tutorial-with-examples/
 https://www.freecodecamp.org/news/navigation-in-flutter/)
 -Diego Ramon Avitia a.21308051281212@cbtis128.edu.mx
 ##Resultado De Mi Aplicacion en Flutter
-![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/00bc0e66-0a1a-448d-b9b8-5b6e63f69aa8)
-![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/14dcf8eb-3d1e-445e-8af3-704f3372358d)
+![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/535f517e-37bf-4f7e-9833-2a94d98c1cb4)
+
+![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/fe5bc53b-a981-43c3-8c91-a0e1409ec278)
+
 
 
 
