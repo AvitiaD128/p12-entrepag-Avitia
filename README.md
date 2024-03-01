@@ -33,9 +33,10 @@ https://www.freecodecamp.org/news/navigation-in-flutter/)
 
 ![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/fe5bc53b-a981-43c3-8c91-a0e1409ec278)
 
-![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/535f517e-37bf-4f7e-9833-2a94d98c1cb4)
+![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/c8296ec5-452f-40a2-8a1a-0a90f2bf352a)
+![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/3069f0b6-b93f-4f2c-810c-1535dba59ede)
 
-![image](https://github.com/AvitiaD128/p12-entrepag-Avitia/assets/143744078/fe5bc53b-a981-43c3-8c91-a0e1409ec278)
+
 
 
 
